@@ -5,9 +5,9 @@ Compressed Sparse Row (CSR) representation in C.
 
 ## Files
 
-- `sparse_multiply.c` → Source code implementation
-- `documentation.tex` → LaTeX documentation
-- `documentation.pdf` → Compiled report
+- `challenge.c` → Code implementation
+- `readme.md` → Documentation
+- `RV_Sparse.pdf` → Compiled report
 
 ## Features
 
